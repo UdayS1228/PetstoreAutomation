@@ -1,0 +1,4 @@
+TestNG frame is awesome
+Need to practice everyday
+cucumber frame is also trending because of its BDD approach
+Thanks
