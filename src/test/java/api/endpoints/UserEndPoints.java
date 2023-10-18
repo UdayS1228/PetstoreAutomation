@@ -38,6 +38,7 @@ public class UserEndPoints {
 		return response;
 			
 	}
+	//System.out.println("this is a test purpose: checking the local changes to commit")
 	//Read User / get user
 	public static Response readUser(String userName)
 	{
@@ -77,25 +78,6 @@ public class UserEndPoints {
 		return response;
 			
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	//System.out.println("uday is practing commits");
+	// Hi, i'm practicing the commits and want to see the changes in github repository
 }
