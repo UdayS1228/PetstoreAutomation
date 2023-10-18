@@ -60,7 +60,7 @@ public class UserPojo {
 	public void setUserStatus(int userStatus) {
 		this.userStatus = userStatus;
 	}
-	
+	public String getMyFirstPhone(){return this.firstName;}
 	
 	
 	
